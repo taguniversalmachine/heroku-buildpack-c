@@ -2,10 +2,10 @@
 # The first parameter is project name
 # second is version number
 # third is bug report address
-AC_INIT([hello], [1.0])
+AC_INIT([mkrand], [1.0])
 
 # Safety checks in case user overwritten --srcdir
-AC_CONFIG_SRCDIR([hello.c])
+AC_CONFIG_SRCDIR([command.c])
 
 # Store the auxiliary build tools (e.g., install-sh, config.sub, config.guess)
 # in this dir (build-aux)
