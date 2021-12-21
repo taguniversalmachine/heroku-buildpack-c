@@ -1,0 +1,2 @@
+[[buildpack]]
+uri="https://github.com/taguniversalmachine/heroku-buildpack-c/archive/refs/tags/1.0.3.tar.gz"
